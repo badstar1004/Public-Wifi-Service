@@ -1,4 +1,4 @@
-# 공공 와이파이 서비스 (Public-Wifi-Service)
+# 공공 와이파이 서비스 (Public-Wifi-Service) 조회
 > 서울시 공공데이터(공공 WIFI) API 연동 프로젝트 (Seoul Public Data (Public WIFI) API Interworking Project)
 
 # 기술 & 툴
